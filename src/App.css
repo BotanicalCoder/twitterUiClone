@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #14171a;
+  color: #f5f8fa;
+  list-style-type: none;
+  margin: 0em;
+  text-align: left;
+  font-weight: bold;
+  letter-spacing: 2px;
+  display: inline-block;
+}
