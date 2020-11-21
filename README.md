@@ -25,7 +25,7 @@
 
  * type ( npm install ) in your terminal in the file directory to set up on local machine 
  * type ( npm start ) in your terminal in the file directory to run the web app up on your local machine.
- * live demo at ( https://twitterUiClone-bc.netlify.app )
+ * live demo at ( https://twitteruiclonebc.netlify.app )
 
 ## Contact
 Created by [@botanicalcoder]
